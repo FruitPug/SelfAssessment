@@ -1,14 +1,14 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming*
   - Imperative programming
-  - Structured programming
+  - Structured programming*
   - Non-structured programming
-  - Functional programming
+  - Functional programming*
   - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Object-oriented programming*
+  - Object-based programming*
   - Generic programming
   - Concurrent computing
   - Asynchronous programming
@@ -22,29 +22,29 @@
   - Actor model
   - Lambda calculus
   - Black box
-  - Information hiding
+  - Information hiding*
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
+  - Constructor*
+  - Operator `new`*
+  - Static method*
+  - Method*
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - Instance
+  - Getters, Setters*
+  - Public fields*
+  - Private fields*
+  - Field declarations*
+  - Inheritance*
+  - Parent class*
+  - Polymorphism*
+  - Abstract class*
+  - Interface*
+  - Encapsulation*
+  - Hidden class*
+  - Object form*
+  - Instance*
   - Introspection
   - Reflection
   - The diamond problem
@@ -57,7 +57,7 @@
   - High cohesion
   - Protected variations
   - Pure fabrication
-- SOLID
+- SOLID+
   - Single-responsibility principle (SRP)
   - Open–closed principle (OCP)
   - Liskov substitution principle (LSP)

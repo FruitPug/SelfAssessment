@@ -4,69 +4,69 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm*
+  - Syntax*
   - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Abstraction*
+  - Paradigm*
+  - Programm*
+  - Programming paradigm*
+  - Programming language*
   - Contract
-  - Module
-  - Library
+  - Module*
+  - Library*
   - Package
   - Component
-  - Framework
-  - Platform
-  - Source code
+  - Framework+
+  - Platform*
+  - Source code*
   - Object code
-  - Machine code
+  - Machine code+
   - Microcode
-  - Software engineering
+  - Software engineering*
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse*
   - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Don't repeat yourself (DRY)*
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
+  - Value*
+  - Identifier*
+  - Variable*
+  - Constant*
+  - Scalar*
+  - Literal*
+  - Expression*
   - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
+  - Function*
+  - Procedure*
+  - Method*
+  - Class*
+  - Prototype~
+  - Event*
+  - Type*
+  - Flag*
   - Lexical scope
   - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
+  - Conditions*
+  - Loops*
+  - Assignment*
+  - Regular expression*
+  - Interface*
   - Namespaces
   - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Naming conventions*
+  - Coding conventions*
+  - Camel case*
+  - Snake case*
+  - Kebab case*
   - Trailing commas
-  - Return early
+  - Return early*
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types*
   - Reference types
   - Type systems
   - Strong typing
@@ -81,19 +81,19 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
+  - Signature*
+  - Argument*
+  - Parameter*
   - Pure function
-  - Lambda expression
+  - Lambda expression*
   - Side effects
-  - Closure
+  - Closure*
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion*
   - Tail call optimisation
-  - Callback
+  - Callback~
   - Listener
   - Composition
   - Pipe
@@ -105,21 +105,21 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
+  - Array*
+  - Structure*
   - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
+  - Enum*
+  - Instance*
+  - Object*
+  - Collection*
+  - Set*
+  - Hash table*
+  - Linked list*
   - Doubly list
   - Unrolled list
   - Circular list
   - Queue
-  - Stack
+  - Stack~
   - Deque
   - Tree
   - Graph
@@ -128,17 +128,17 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON
+  - JSON+
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS~
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4*
+  - IPv6+
   - NAT
-  - URL
+  - URL*
   - URN
   - URI
 - Process and tools
@@ -153,76 +153,76 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine*
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger*
   - Tracing
   - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
+  - Refactoring*
+  - Code review*
+  - Exception*
+  - Unittesting*
+  - git*
+  - Github*
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
-  - Cryptic code
+  - Magic numbers*
+  - Hard code*
+  - Soft code*
+  - Cryptic code*
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti*
   - Silver bullet
   - Not invented here
   - Dead code
   - Unreachable code
-  - Duplicate code
+  - Duplicate code*
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
+  - Nested loops*
+  - Long method/function/procedure*
   - Long inheritance
-  - Large class/file
-  - Too many parameters
+  - Large class/file*
+  - Too many parameters*
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case*
   - Temporary field
   - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments
+  - Use fields instead of arguments~
   - Data clump
   - Feature envy
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode~
+  - V8~
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers
-  - Kernel
+  - Drivers*
+  - Kernel~
   - Ring
-  - Virtual memory
+  - Virtual memory+
   - File system
-  - Linux
+  - Linux*
   - Unix
   - BSD
-  - MacOS
-  - Windows
-  - Real-time OS
+  - MacOS~
+  - Windows*
+  - Real-time OS+
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII*
   - Escape sequence
   - RFC
   - IETF
@@ -231,9 +231,9 @@
   - Base64
   - ECMA
   - ICANN
-  - ISO
+  - ISO*
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8*
   - W3C
   - ODMG
