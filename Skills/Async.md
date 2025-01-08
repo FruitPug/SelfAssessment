@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop*
-  - `try..catch`*
+  - Event loop: 🖐️ used
+  - `try..catch`: 🖐️ used
   - Non-blocking
   - Async I/O
   - Thread pool

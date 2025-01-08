@@ -1,14 +1,14 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming*
+  - Procedural programming: 🖐️ used
   - Imperative programming
-  - Structured programming*
+  - Structured programming: 🖐️ used
   - Non-structured programming
-  - Functional programming*
+  - Functional programming: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming*
-  - Object-based programming*
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 🖐️ used
   - Generic programming
   - Concurrent computing
   - Asynchronous programming
@@ -22,29 +22,29 @@
   - Actor model
   - Lambda calculus
   - Black box
-  - Information hiding*
+  - Information hiding: 🖐️ used
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor*
-  - Operator `new`*
-  - Static method*
-  - Method*
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
   - Async method
-  - Getters, Setters*
-  - Public fields*
-  - Private fields*
-  - Field declarations*
-  - Inheritance*
-  - Parent class*
-  - Polymorphism*
-  - Abstract class*
-  - Interface*
-  - Encapsulation*
-  - Hidden class*
-  - Object form*
-  - Instance*
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🖐️ used
+  - Object form: 🖐️ used
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem

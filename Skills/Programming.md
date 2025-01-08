@@ -4,69 +4,69 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm*
-  - Syntax*
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
   - Semantics
-  - Abstraction*
-  - Paradigm*
-  - Programm*
-  - Programming paradigm*
-  - Programming language*
+  - Abstraction: 🖐️ used
+  - Paradigm: 🖐️ used
+  - Programm: 🖐️ used
+  - Programming paradigm: 🖐️ used
+  - Programming language: 🖐️ used
   - Contract
-  - Module*
-  - Library*
+  - Module: 🖐️ used
+  - Library: 🖐️ used
   - Package
   - Component
-  - Framework+
-  - Platform*
-  - Source code*
+  - Framework: 🎓 known
+  - Platform: 🖐️ used
+  - Source code: 🖐️ used
   - Object code
-  - Machine code+
+  - Machine code: 🎓 known
   - Microcode
-  - Software engineering*
+  - Software engineering: 🖐️ used
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse*
+  - Code reuse: 🖐️ used
   - Defensive programming
-  - Don't repeat yourself (DRY)*
+  - Don't repeat yourself (DRY): 🖐️ used
   - KISS principle
 - Syntax and concepts
-  - Value*
-  - Identifier*
-  - Variable*
-  - Constant*
-  - Scalar*
-  - Literal*
-  - Expression*
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🖐️ used
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
   - Heap
-  - Function*
-  - Procedure*
-  - Method*
-  - Class*
-  - Prototype~
-  - Event*
-  - Type*
-  - Flag*
+  - Function: 🖐️ used
+  - Procedure: 🖐️ used
+  - Method: 🖐️ used
+  - Class: 🖐️ used
+  - Prototype: 👂 heard
+  - Event: 🖐️ used
+  - Type: 🖐️ used
+  - Flag: 🖐️ used
   - Lexical scope
   - Code block
-  - Conditions*
-  - Loops*
-  - Assignment*
-  - Regular expression*
-  - Interface*
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
+  - Regular expression: 🖐️ used
+  - Interface: 🖐️ used
   - Namespaces
   - Call stack
-  - Naming conventions*
-  - Coding conventions*
-  - Camel case*
-  - Snake case*
-  - Kebab case*
+  - Naming conventions: 🖐️ used
+  - Coding conventions: 🖐️ used
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 🖐️ used
   - Trailing commas
-  - Return early*
+  - Return early: 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types*
+  - Primitive types: 🖐️ used
   - Reference types
   - Type systems
   - Strong typing
@@ -81,19 +81,19 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature*
-  - Argument*
-  - Parameter*
+  - Signature: 🖐️ used
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
   - Pure function
-  - Lambda expression*
+  - Lambda expression: 🖐️ used
   - Side effects
-  - Closure*
+  - Closure: 🖐️ used
   - Partial application
   - Currying
   - Higher order
-  - Recursion*
+  - Recursion: 🖐️ used
   - Tail call optimisation
-  - Callback~
+  - Callback: 👂 heard
   - Listener
   - Composition
   - Pipe
@@ -105,21 +105,21 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array*
-  - Structure*
+  - Array: 🖐️ used
+  - Structure: 🖐️ used
   - Record
-  - Enum*
-  - Instance*
-  - Object*
-  - Collection*
-  - Set*
-  - Hash table*
-  - Linked list*
+  - Enum: 🖐️ used
+  - Instance: 🖐️ used
+  - Object: 🖐️ used
+  - Collection: 🖐️ used
+  - Set: 🖐️ used
+  - Hash table: 🖐️ used
+  - Linked list: 🖐️ used
   - Doubly list
   - Unrolled list
   - Circular list
   - Queue
-  - Stack~
+  - Stack: 👂 heard
   - Deque
   - Tree
   - Graph
@@ -128,17 +128,17 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON+
+  - JSON: 🎓 known
   - JSON5
   - YAML
 - Networking
-  - DNS~
+  - DNS: 👂 heard
   - CDN
   - CORS
-  - IPv4*
-  - IPv6+
+  - IPv4: 🖐️ used
+  - IPv6: 🎓 known
   - NAT
-  - URL*
+  - URL: 🖐️ used
   - URN
   - URI
 - Process and tools
@@ -153,76 +153,76 @@
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine*
+  - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger*
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection
-  - Refactoring*
-  - Code review*
-  - Exception*
-  - Unittesting*
-  - git*
-  - Github*
+  - Refactoring: 🖐️ used
+  - Code review: 🖐️ used
+  - Exception: 🖐️ used
+  - Unittesting: 🖐️ used
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers*
-  - Hard code*
-  - Soft code*
-  - Cryptic code*
+  - Magic numbers: 🖐️ used
+  - Hard code: 🖐️ used
+  - Soft code: 🖐️ used
+  - Cryptic code: 🖐️ used
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti*
+  - Spaghetti: 🖐️ used
   - Silver bullet
   - Not invented here
   - Dead code
   - Unreachable code
-  - Duplicate code*
+  - Duplicate code: 🖐️ used
   - Premature optimization
   - Micro-optimization
-  - Nested loops*
-  - Long method/function/procedure*
+  - Nested loops: 🖐️ used
+  - Long method/function/procedure: 🖐️ used
   - Long inheritance
-  - Large class/file*
-  - Too many parameters*
+  - Large class/file: 🖐️ used
+  - Too many parameters: 🖐️ used
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case*
+  - Use switch/case: 🖐️ used
   - Temporary field
   - Handle object as instances and hashes at the same time
-  - Use fields instead of arguments~
+  - Use fields instead of arguments: 👂 heard
   - Data clump
   - Feature envy
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode~
-  - V8~
+  - Bytecode: 👂 heard
+  - V8: 👂 heard
   - VJM
   - CLR
   - Mono
 - Operating systems
   - Interrupts
-  - Drivers*
-  - Kernel~
+  - Drivers: 🖐️ used
+  - Kernel: 👂 heard
   - Ring
-  - Virtual memory+
+  - Virtual memory: 🎓 known
   - File system
-  - Linux*
+  - Linux: 🖐️ used
   - Unix
   - BSD
-  - MacOS~
-  - Windows*
-  - Real-time OS+
+  - MacOS: 👂 heard
+  - Windows: 🖐️ used
+  - Real-time OS: 🎓 known
   - Embedded OS
 - Standards
-  - ASCII*
+  - ASCII: 🖐️ used
   - Escape sequence
   - RFC
   - IETF
@@ -231,9 +231,9 @@
   - Base64
   - ECMA
   - ICANN
-  - ISO*
+  - ISO: 🖐️ used
   - MIME
   - OWASP
-  - UTF-8*
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG
